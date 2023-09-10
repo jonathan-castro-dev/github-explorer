@@ -2,7 +2,7 @@
   GitHub Explorer
 </h1>
 
-![github-explorer](https://github.com/johnncaastro/github-users/blob/main/.github/landing%20github-users.png)
+![github-explorer](https://github.com/johnncaastro/github-explorer/blob/main/public/homepage-github-explorer.png)
 
 ## :page_with_curl: Sobre
 
@@ -42,7 +42,7 @@ Em seguida insira o comando abaixo para iniciar a aplicação:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/github-explorer/blob/main/LICENSE) para mais detalhes.
 
 ---
 
