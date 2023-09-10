@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  GitHub Explorer
+</h1>
 
-## Getting Started
+![github-explorer](https://github.com/johnncaastro/github-users/blob/main/.github/landing%20github-users.png)
 
-First, run the development server:
+## :page_with_curl: Sobre
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+O GitHub Explorer tem como objetivo fornecer informações de repositórios pela API do Github através do nome do usuário
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :computer: Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Acesse o projeto clicando [aqui](https://github-explorer-ecru.vercel.app/). :+1:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🚀 Tecnologias
 
-## Learn More
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-To learn more about Next.js, take a look at the following resources:
+- [nextjs](https://nextjs.org/)
+- [typescript](https://www.typescriptlang.org/)
+- [tailwindcss](https://tailwindcss.com/)
+- [axios](https://axios-http.com/ptbr/)
+- [react-icons](https://react-icons.github.io/react-icons)
+- [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
+- [eslint](https://eslint.org/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👷 Instalação
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Clone o repositório com o seguinte comando no seu terminal (Você precisa ter o [Node.js](https://nodejs.org/en/) e o [Git](https://git-scm.com/) instalados no seu computador).
 
-## Deploy on Vercel
+```git clone https://github.com/johnncaastro/github-explorer.git```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Instale as dependências para o funcionamento do projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```npm install```
+
+## 🏃 Começando
+
+Em seguida insira o comando abaixo para iniciar a aplicação:
+
+```npm run dev```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+
+---
+
+Feito com ♥ por John Castro :wave: [Entre em contato!](https://www.linkedin.com/in/jonathan-castro-alves/)
