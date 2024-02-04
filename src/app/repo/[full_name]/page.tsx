@@ -11,14 +11,15 @@ interface RepositoryProps {
 }
 
 interface Repository {
-  full_name: string;
-  description: string;
+  full_name: string
+  description: string
   owner: {
-    avatar_url: string;
-  };
-  forks: number;
-  open_issues: number;
-  watchers: number;
+    avatar_url: string
+  }
+  homepage: string
+  forks: number
+  open_issues: number
+  watchers: number
 }
 
 interface RepositoryForks {
@@ -76,7 +77,16 @@ export default async function Repository({ params }: RepositoryProps) {
           </div>
         </div>
 
-        <div className="flex items-center gap-12 mb-16">
+        {repository.homepage && (
+          <a href={repository.homepage} target="_blank">
+            <button className="inline-flex items-center text-gray-700 border border-gray-700 p-2 rounded-md hover:text-white hover:bg-black transition-colors" type="button">
+              Visitar projeto
+              <FiChevronRight className="h-4 w-4" />
+            </button>
+          </a>
+        )}
+
+        <div className="flex items-center gap-12 mt-4 mb-16">
           <div className="leading-tight">
             <strong className="text-gray-800 text-xl">
               {repository.watchers}

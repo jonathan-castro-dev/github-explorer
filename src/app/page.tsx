@@ -7,12 +7,13 @@ import logoImg from '../../public/logo.svg'
 import { RepositoriesList } from '@/components/RepositoriesList'
 
 interface RepositoriesProps {
-  id: number;
-  full_name: string;
-  description: string;
+  id: number
+  full_name: string
+  description: string
+  homepage: string
   owner: {
-    avatar_url: string;
-  };
+    avatar_url: string
+  }
 }
 
 export default function Home() {
