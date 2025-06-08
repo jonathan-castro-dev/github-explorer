@@ -2,17 +2,32 @@
   GitHub Explorer
 </h1>
 
-![github-explorer](https://github.com/johnncaastro/github-explorer/blob/main/public/homepage-github-explorer.png)
+<p align="center">
+  <a href="#tech">Tecnologias</a> • 
+  <a href="#installation">Instalação</a> • 
+  <a href="#starting">Começando</a> •
+</p>
 
-## :page_with_curl: Sobre
+<p align="center">
+  <strong>O TO DO é um gerenciador de tarefas com o intuito de ajudar no planejamento das atividades diárias, podendo realizar filtros para facilitar a busca das tarefas.</strong>
+</p>
 
-O GitHub Explorer tem como objetivo fornecer informações de repositórios pela API do Github através do nome do usuário
+<p align="center">
+  <a href="https://github-explorer-ecru.vercel.app/">🚀 Visite este projeto</a>
+</p>
 
-## :computer: Projeto
+<h2>🎨 Layout</h2>
 
-Acesse o projeto clicando [aqui](https://github-explorer-ecru.vercel.app/). :+1:
+<p align="center">
+    <img src="https://github.com/jonathan-castro-dev/github-explorer/blob/main/public/homepage-github-explorer.png" alt="Home page" width="400px" height="195px">
+    <img src="https://github.com/jonathan-castro-dev/github-explorer/blob/main/public/repo-github-explorer.png" alt="Repository info page" width="400px" height="195px">
+</p>
 
-## 🚀 Tecnologias
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+<h2 id="tech">🚀 Tecnologias</h2>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -24,28 +39,38 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
 - [eslint](https://eslint.org/)
 
-## 👷 Instalação
+<h2 id="installation">👷 Instalação</h2>
 
-Clone o repositório com o seguinte comando no seu terminal (Você precisa ter o [Node.js](https://nodejs.org/en/) e o [Git](https://git-scm.com/) instalados no seu computador).
+<h3>Pré-requisitos</h3>
 
-```git clone https://github.com/johnncaastro/github-explorer.git```
+Para executar o projeto, é necessário ter as seguintes ferramentas instaladas no seu computador:
 
-Instale as dependências para o funcionamento do projeto
+- [Git](https://git-scm.com/)
+- [Node](https://nodejs.org/en/)
+- [pnpm](https://pnpm.io/pt/installation#usando-npm)
 
-```npm install```
+<h3>Clonando o repositório</h3>
 
-## 🏃 Começando
+Execute o comando abaixo em um terminal para clonar o projeto.
 
-Em seguida insira o comando abaixo para iniciar a aplicação:
+```git clone https://github.com/jonathan-castro-dev/github-explorer.git```
 
-```npm run dev```
+<h3>Instalando as dependências do projeto</h3>
 
-## :memo: Licença
+Ainda no terminal, execute o comando abaixo para instalar as dependências necessárias para o funcionamento do projeto.
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/github-explorer/blob/main/LICENSE) para mais detalhes.
+```pnpm install```
+
+<h2 id="starting">🏃 Começando</h2>
+
+Em seguida insira o comando abaixo no terminal para iniciar a aplicação:
+
+```pnpm run dev```
+
+<h2>📝 Licença</h2>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jonathan-castro-dev/github-explorer/blob/main/LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ por John Castro :wave: [Entre em contato!](https://www.linkedin.com/in/johnncaastro/)
-
-<p>johncastro.dev</p>
+Feito com ♥ por John Castro :wave: [Entre em contato!](https://www.linkedin.com/in/jonathan-castro-dev/)
