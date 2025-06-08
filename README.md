@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>O TO DO é um gerenciador de tarefas com o intuito de ajudar no planejamento das atividades diárias, podendo realizar filtros para facilitar a busca das tarefas.</strong>
+  <strong>Este app é um buscador de repositórios do GitHub e foi criado com o objetivo de estudo sobre o uso de APIs públicas.</strong>
 </p>
 
 <p align="center">
