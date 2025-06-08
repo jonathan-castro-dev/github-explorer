@@ -47,7 +47,6 @@ Para executar o projeto, é necessário ter as seguintes ferramentas instaladas 
 
 - [Git](https://git-scm.com/)
 - [Node](https://nodejs.org/en/)
-- [pnpm](https://pnpm.io/pt/installation#usando-npm)
 
 <h3>Clonando o repositório</h3>
 
