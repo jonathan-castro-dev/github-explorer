@@ -59,13 +59,13 @@ Execute o comando abaixo em um terminal para clonar o projeto.
 
 Ainda no terminal, execute o comando abaixo para instalar as dependências necessárias para o funcionamento do projeto.
 
-```pnpm install```
+```npm install```
 
 <h2 id="starting">🏃 Começando</h2>
 
 Em seguida insira o comando abaixo no terminal para iniciar a aplicação:
 
-```pnpm run dev```
+```npm run dev```
 
 <h2>📝 Licença</h2>
 
